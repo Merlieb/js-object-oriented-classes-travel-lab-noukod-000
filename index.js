@@ -33,4 +33,6 @@ class Route {
       return this.blocksTravelled()/2;
     }
   }
+
 }
+
